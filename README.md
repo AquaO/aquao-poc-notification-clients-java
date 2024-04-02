@@ -15,17 +15,24 @@ Edit .env file and replace %**% with the correct values
 
 ### Prerequisites
 
+* Java 17
+* Maven 3.2.3
 
 ### Install
 
+```bash
+mvn clean install
+```
 
 ## Start
 
+```bash
+mvn spring-boot:run
+```
 
 ## Authors
 
 AquaO - support@aquao.fr
-
 
 ## License
 
