@@ -1,4 +1,4 @@
-package pov_notif.notif.services;
+package fr.aquao.poc.notificationClients.services;
 
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;

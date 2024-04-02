@@ -1,4 +1,4 @@
-package pov_notif.notif;
+package fr.aquao.poc.notificationClients;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
